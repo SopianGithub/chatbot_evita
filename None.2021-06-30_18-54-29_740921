@@ -1,0 +1,227 @@
+INFO     2021-06-30 18:54:29.736 request id: app - uvicorn.server:serve - Started server process [1243]
+INFO     2021-06-30 18:54:29.737 request id: app - uvicorn.server:serve - Started server process [1243]
+INFO     2021-06-30 18:54:29.737 request id: app - uvicorn.server:serve - Started server process [1243]
+INFO     2021-06-30 18:54:29.737 request id: app - uvicorn.lifespan.on:startup - Waiting for application startup.
+INFO     2021-06-30 18:54:29.737 request id: app - uvicorn.lifespan.on:startup - Waiting for application startup.
+INFO     2021-06-30 18:54:29.737 request id: app - uvicorn.lifespan.on:startup - Waiting for application startup.
+INFO     2021-06-30 18:54:29.738 request id: app - uvicorn.lifespan.on:startup - Application startup complete.
+INFO     2021-06-30 18:54:29.738 request id: app - uvicorn.lifespan.on:startup - Application startup complete.
+INFO     2021-06-30 18:54:29.739 request id: app - uvicorn.lifespan.on:startup - Application startup complete.
+INFO     2021-06-30 19:25:56.978 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50017 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-06-30 19:25:56.982 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50018 - "GET /report/category HTTP/1.1" 200
+INFO     2021-06-30 19:25:56.983 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50021 - "GET /report/product HTTP/1.1" 200
+INFO     2021-06-30 19:26:15.467 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50026 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-06-30 19:26:15.469 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50028 - "GET /report/category HTTP/1.1" 200
+INFO     2021-06-30 19:26:15.472 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50030 - "GET /report/product HTTP/1.1" 200
+INFO     2021-06-30 19:26:47.811 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50051 - "OPTIONS /login HTTP/1.1" 200
+INFO     2021-06-30 19:26:47.829 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50051 - "POST /login HTTP/1.1" 200
+INFO     2021-06-30 19:26:59.928 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50053 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-06-30 19:26:59.930 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50056 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-06-30 19:26:59.932 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50058 - "GET /report/category HTTP/1.1" 200
+INFO     2021-06-30 19:26:59.934 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50059 - "GET /report/product HTTP/1.1" 200
+INFO     2021-06-30 19:28:15.214 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50067 - "POST /login HTTP/1.1" 200
+INFO     2021-06-30 19:28:20.116 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50067 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-06-30 19:28:20.152 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50068 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-06-30 19:28:20.154 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50070 - "GET /report/category HTTP/1.1" 200
+INFO     2021-06-30 19:28:20.155 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50072 - "GET /report/product HTTP/1.1" 200
+INFO     2021-06-30 19:32:27.188 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50102 - "GET /cc/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:36:36.953 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50693 - "GET /cc/page?limit=10&offset=10&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:36:40.280 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50693 - "GET /cc/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:37:51.001 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50999 - "GET /segmen HTTP/1.1" 200
+INFO     2021-06-30 19:38:03.856 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51055 - "GET /cc/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:38:06.748 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51055 - "GET /segmen HTTP/1.1" 200
+INFO     2021-06-30 19:38:06.756 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51070 - "GET /cc/90013747 HTTP/1.1" 200
+INFO     2021-06-30 19:38:30.153 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51166 - "GET /cc/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:38:47.846 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51240 - "GET /cc/mapping/90013747 HTTP/1.1" 200
+INFO     2021-06-30 19:39:24.489 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51389 - "GET /ams/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:39:52.109 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51507 - "GET /ams/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:39:53.739 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51507 - "GET /ams/101700 HTTP/1.1" 200
+INFO     2021-06-30 19:40:27.347 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51652 - "GET /ams/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:40:34.899 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51685 - "GET /employe/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:40:48.014 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51740 - "GET /employe/loker HTTP/1.1" 200
+INFO     2021-06-30 19:41:03.925 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51809 - "GET /employe/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:41:06.180 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51809 - "GET /employe/loker HTTP/1.1" 200
+INFO     2021-06-30 19:41:06.189 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51820 - "GET /employe/100001 HTTP/1.1" 200
+INFO     2021-06-30 19:41:33.417 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51934 - "GET /employe/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:41:34.589 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:51934 - "GET /product/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:42:09.651 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:52090 - "GET /product/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-06-30 19:42:25.747 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:52157 - "GET /product/5fc648c98ddc3549acf4bcf1 HTTP/1.1" 200
+INFO     2021-06-30 19:42:41.461 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:52222 - "GET /report/category HTTP/1.1" 200
+INFO     2021-06-30 19:42:41.463 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:52224 - "GET /report/page_catgeory?limit=10&offset=0 HTTP/1.1" 200
+INFO     2021-06-30 19:43:44.269 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:52483 - "GET /report/product HTTP/1.1" 200
+INFO     2021-06-30 19:43:44.271 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:52485 - "GET /report/page_chart_product?limit=10&offset=0 HTTP/1.1" 200
+INFO     2021-06-30 19:44:05.307 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:52572 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-06-30 19:44:05.308 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:52574 - "GET /report/page_answered?limit=10&offset=0 HTTP/1.1" 200
+INFO     2021-06-30 19:52:30.806 request id: app - uvicorn.server:shutdown - Shutting down
+INFO     2021-06-30 19:52:30.806 request id: app - uvicorn.server:shutdown - Shutting down
+INFO     2021-06-30 19:52:30.807 request id: app - uvicorn.server:shutdown - Shutting down
+INFO     2021-06-30 19:52:30.912 request id: app - uvicorn.lifespan.on:shutdown - Waiting for application shutdown.
+INFO     2021-06-30 19:52:30.913 request id: app - uvicorn.lifespan.on:shutdown - Waiting for application shutdown.
+INFO     2021-06-30 19:52:30.913 request id: app - uvicorn.lifespan.on:shutdown - Waiting for application shutdown.
+INFO     2021-06-30 19:52:30.913 request id: app - uvicorn.lifespan.on:shutdown - Application shutdown complete.
+INFO     2021-06-30 19:52:30.914 request id: app - uvicorn.lifespan.on:shutdown - Application shutdown complete.
+INFO     2021-06-30 19:52:30.914 request id: app - uvicorn.lifespan.on:shutdown - Application shutdown complete.
+INFO     2021-06-30 19:52:30.914 request id: app - uvicorn.server:serve - Finished server process [1243]
+INFO     2021-06-30 19:52:30.914 request id: app - uvicorn.server:serve - Finished server process [1243]
+INFO     2021-06-30 19:52:30.914 request id: app - uvicorn.server:serve - Finished server process [1243]
+INFO     2021-07-03 19:25:51.325 request id: app - uvicorn.server:serve - Started server process [1218]
+INFO     2021-07-03 19:25:51.325 request id: app - uvicorn.server:serve - Started server process [1218]
+INFO     2021-07-03 19:25:51.325 request id: app - uvicorn.server:serve - Started server process [1218]
+INFO     2021-07-03 19:25:51.325 request id: app - uvicorn.lifespan.on:startup - Waiting for application startup.
+INFO     2021-07-03 19:25:51.326 request id: app - uvicorn.lifespan.on:startup - Waiting for application startup.
+INFO     2021-07-03 19:25:51.326 request id: app - uvicorn.lifespan.on:startup - Waiting for application startup.
+INFO     2021-07-03 19:25:51.326 request id: app - uvicorn.lifespan.on:startup - Application startup complete.
+INFO     2021-07-03 19:25:51.327 request id: app - uvicorn.lifespan.on:startup - Application startup complete.
+INFO     2021-07-03 19:25:51.327 request id: app - uvicorn.lifespan.on:startup - Application startup complete.
+INFO     2021-07-03 19:28:43.280 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49477 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:28:50.341 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49487 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:28:50.343 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49490 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:28:50.344 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49491 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:28:50.364 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49493 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:29:26.914 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49515 - "OPTIONS /login HTTP/1.1" 200
+INFO     2021-07-03 19:29:26.931 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49515 - "POST /login HTTP/1.1" 200
+INFO     2021-07-03 19:30:15.477 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49535 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:30:20.580 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49556 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:30:29.192 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49562 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:30:29.193 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49565 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:30:29.194 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49567 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:30:29.196 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49568 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:31:01.484 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49584 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:31:06.548 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49590 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:31:06.550 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49593 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:31:06.582 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49595 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:31:06.583 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49596 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:31:10.209 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49590 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:31:13.416 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49590 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:31:13.479 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49598 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:31:13.482 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49600 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:31:13.484 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49602 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:31:16.820 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49590 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:31:20.508 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49590 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:31:20.557 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49625 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:31:20.559 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49627 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:31:20.560 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49628 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:31:27.907 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49632 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:31:27.908 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49634 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:31:27.909 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49635 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:31:49.563 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49642 - "POST /login HTTP/1.1" 200
+INFO     2021-07-03 19:32:08.650 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49644 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:32:08.672 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49647 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:32:08.705 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49648 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:32:08.707 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49650 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:32:16.416 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49654 - "POST /login HTTP/1.1" 200
+INFO     2021-07-03 19:32:53.586 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49658 - "POST /login HTTP/1.1" 200
+INFO     2021-07-03 19:32:55.262 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:32:56.561 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:32:57.570 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:32:58.668 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:32:59.634 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:00.668 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:01.737 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:02.843 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:03.665 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:04.553 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:05.439 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:06.351 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:07.360 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:08.068 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:08.887 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:10.031 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:11.672 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:13.981 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49672 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:33:57.918 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49752 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:34:03.761 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49771 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:34:05.458 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49771 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:34:08.946 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49771 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:34:09.041 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49779 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:34:09.043 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49781 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:34:09.044 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49783 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:34:34.185 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49789 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:34:40.073 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49790 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:34:40.075 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49793 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:34:40.076 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49794 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:34:40.078 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49796 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:34:44.731 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49790 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:34:47.658 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49790 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:34:47.700 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49799 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:34:47.702 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49800 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:34:47.704 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49802 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:35:06.399 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49818 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:35:10.440 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49818 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:35:12.060 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49818 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:35:13.047 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49818 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:35:21.582 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49847 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:35:22.571 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49847 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:35:39.907 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49872 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:35:43.027 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49872 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:35:43.903 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49872 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:37:22.723 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49894 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:37:22.723 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49897 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:37:22.724 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49899 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:37:22.725 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49900 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:40:47.772 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49934 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:40:47.774 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49935 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:40:47.776 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49937 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:41:06.477 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49943 - "OPTIONS /login HTTP/1.1" 200
+INFO     2021-07-03 19:41:06.493 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49943 - "POST /login HTTP/1.1" 200
+INFO     2021-07-03 19:41:09.367 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49958 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:41:10.601 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49958 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:41:12.249 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:49958 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:42:23.209 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50020 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:42:27.272 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50020 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:42:27.329 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50029 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:42:27.329 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50031 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:42:27.330 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50032 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:42:43.675 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50036 - "POST /login HTTP/1.1" 200
+INFO     2021-07-03 19:42:43.757 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50036 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:42:43.767 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50037 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:42:43.791 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50039 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:42:43.792 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50041 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:42:47.505 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50037 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:42:52.734 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50060 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:42:52.736 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50062 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:42:52.738 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50065 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:42:52.739 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50066 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:43:00.863 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50068 - "POST /login HTTP/1.1" 200
+INFO     2021-07-03 19:43:00.957 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50068 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:43:00.959 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50069 - "GET /login/461119 HTTP/1.1" 200
+INFO     2021-07-03 19:43:00.990 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50072 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:43:00.992 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50073 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:43:06.220 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50075 - "GET /ams/page?limit=10&offset=0&filter= HTTP/1.1" 200
+INFO     2021-07-03 19:43:08.844 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50075 - "GET /ams/101700 HTTP/1.1" 200
+INFO     2021-07-03 19:43:16.839 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50080 - "GET /report/answered HTTP/1.1" 200
+INFO     2021-07-03 19:43:16.841 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50082 - "GET /report/category HTTP/1.1" 200
+INFO     2021-07-03 19:43:16.844 request id: app - uvicorn.protocols.http.h11_impl:send - 127.0.0.1:50084 - "GET /report/product HTTP/1.1" 200
+INFO     2021-07-03 19:50:53.552 request id: app - uvicorn.server:shutdown - Shutting down
+INFO     2021-07-03 19:50:53.553 request id: app - uvicorn.server:shutdown - Shutting down
+INFO     2021-07-03 19:50:53.553 request id: app - uvicorn.server:shutdown - Shutting down
+INFO     2021-07-03 19:50:53.659 request id: app - uvicorn.lifespan.on:shutdown - Waiting for application shutdown.
+INFO     2021-07-03 19:50:53.659 request id: app - uvicorn.lifespan.on:shutdown - Waiting for application shutdown.
+INFO     2021-07-03 19:50:53.659 request id: app - uvicorn.lifespan.on:shutdown - Waiting for application shutdown.
+INFO     2021-07-03 19:50:53.660 request id: app - uvicorn.lifespan.on:shutdown - Application shutdown complete.
+INFO     2021-07-03 19:50:53.660 request id: app - uvicorn.lifespan.on:shutdown - Application shutdown complete.
+INFO     2021-07-03 19:50:53.660 request id: app - uvicorn.lifespan.on:shutdown - Application shutdown complete.
+INFO     2021-07-03 19:50:53.661 request id: app - uvicorn.server:serve - Finished server process [1218]
+INFO     2021-07-03 19:50:53.661 request id: app - uvicorn.server:serve - Finished server process [1218]
+INFO     2021-07-03 19:50:53.661 request id: app - uvicorn.server:serve - Finished server process [1218]
+INFO     2021-07-03 19:50:56.400 request id: app - uvicorn.server:serve - Started server process [1648]
+INFO     2021-07-03 19:50:56.400 request id: app - uvicorn.server:serve - Started server process [1648]
+INFO     2021-07-03 19:50:56.400 request id: app - uvicorn.server:serve - Started server process [1648]
+INFO     2021-07-03 19:50:56.401 request id: app - uvicorn.lifespan.on:startup - Waiting for application startup.
+INFO     2021-07-03 19:50:56.401 request id: app - uvicorn.lifespan.on:startup - Waiting for application startup.
+INFO     2021-07-03 19:50:56.401 request id: app - uvicorn.lifespan.on:startup - Waiting for application startup.
+INFO     2021-07-03 19:50:56.402 request id: app - uvicorn.lifespan.on:startup - Application startup complete.
+INFO     2021-07-03 19:50:56.402 request id: app - uvicorn.lifespan.on:startup - Application startup complete.
+INFO     2021-07-03 19:50:56.402 request id: app - uvicorn.lifespan.on:startup - Application startup complete.
+INFO     2021-07-03 20:01:52.024 request id: app - uvicorn.server:shutdown - Shutting down
+INFO     2021-07-03 20:01:52.032 request id: app - uvicorn.server:shutdown - Shutting down
+INFO     2021-07-03 20:01:52.032 request id: app - uvicorn.server:shutdown - Shutting down
+INFO     2021-07-03 20:01:52.138 request id: app - uvicorn.lifespan.on:shutdown - Waiting for application shutdown.
+INFO     2021-07-03 20:01:52.138 request id: app - uvicorn.lifespan.on:shutdown - Waiting for application shutdown.
+INFO     2021-07-03 20:01:52.139 request id: app - uvicorn.lifespan.on:shutdown - Waiting for application shutdown.
+INFO     2021-07-03 20:01:52.141 request id: app - uvicorn.lifespan.on:shutdown - Application shutdown complete.
+INFO     2021-07-03 20:01:52.141 request id: app - uvicorn.lifespan.on:shutdown - Application shutdown complete.
+INFO     2021-07-03 20:01:52.142 request id: app - uvicorn.lifespan.on:shutdown - Application shutdown complete.
+INFO     2021-07-03 20:01:52.142 request id: app - uvicorn.server:serve - Finished server process [1648]
+INFO     2021-07-03 20:01:52.142 request id: app - uvicorn.server:serve - Finished server process [1648]
+INFO     2021-07-03 20:01:52.142 request id: app - uvicorn.server:serve - Finished server process [1648]
